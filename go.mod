@@ -1,4 +1,4 @@
-module github.com/caris-events/gg
+module github.com/caris-events-fork/gg
 
 go 1.20
 
